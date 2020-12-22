@@ -1,10 +1,9 @@
 # walmart-recruiting-store-sales-forecasting
 
-https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
-
 ## Dataset
 
 Use historical sales data for 45 Walmart stores located in different regions. Each store contains many departments.
+https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
 ## Target
 
@@ -12,7 +11,7 @@ Forecast the weekly sales for 99 departments at 45 Walmart stores located in dif
 
 ## Main File
 
-Save my main file as Walmart
+Save my main file as Walmart.ipynb
 
 ## Data Preprocessing
 
